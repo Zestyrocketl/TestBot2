@@ -36,4 +36,3 @@ if __name__ == '__main__':
 
     token = os.getenv('BOT_TOKEN')
     bot.run(token)
-
